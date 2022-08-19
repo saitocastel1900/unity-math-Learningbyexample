@@ -1,5 +1,16 @@
 # unity-math-Learningbyexample
 
+##
+
+## Shaderで学ぶ座標変換
+同次座標
+変換行列
+変換の合成
+ビュー変換
+射影変換
+
+
+
 # 参考文献
 https://gametukurikata.com/program/trigonometricfunction  
 https://onl.tw/D5ERbTW  
